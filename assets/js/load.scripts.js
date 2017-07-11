@@ -1,0 +1,12 @@
+var $ = jQuery.noConflict();
+$.getScript("http://localhost/bitbucket/hungry_buddies/assets/js/jquery-migrate-1.2.1.min.js");
+$.getScript("http://localhost/bitbucket/hungry_buddies/assets/bootstrap/js/bootstrap.min.js");
+$.getScript("http://localhost/bitbucket/hungry_buddies/assets/js/smoothscroll.js");
+$.getScript("http://localhost/bitbucket/hungry_buddies/assets/js/owl.carousel.min.js");
+$.getScript("http://localhost/bitbucket/hungry_buddies/assets/js/bootstrap-select.min.js");
+//$.getScript("http://localhost/bitbucket/hungry_buddies/assets/js/icheck.min.js");
+$.getScript("http://localhost/bitbucket/hungry_buddies/assets/js/jquery.hotkeys.js");
+$.getScript("http://localhost/bitbucket/hungry_buddies/assets/js/baron.min.js");
+$.getScript("http://localhost/bitbucket/hungry_buddies/assets/js/jquery.nouislider.all.min.js");
+$.getScript("http://localhost/bitbucket/hungry_buddies/assets/js/moment-with-locales.min.js");
+$.getScript("http://localhost/bitbucket/hungry_buddies/assets/js/bootstrap-datepicker.js");

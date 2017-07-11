@@ -1,0 +1,17 @@
+[05-Dec-2016 12:23:51 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/bitesup/public_html/beta1/application/config/config.php on line 515
+[05-Dec-2016 12:23:51 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/bitesup/public_html/beta1/application/config/config.php on line 515
+[05-Dec-2016 13:14:50 UTC] PHP Fatal error:  Call to a member function get_all() on a non-object in /home/bitesup/public_html/beta1/application/controllers/Restaurant.php on line 346
+[08-Dec-2016 08:46:17 UTC] PHP Fatal error:  Call to a member function get_most_use_tags() on a non-object in /home/bitesup/public_html/beta1/application/controllers/Main.php on line 155
+[08-Dec-2016 08:56:29 UTC] PHP Fatal error:  Call to a member function getCountryByName() on a non-object in /home/bitesup/public_html/beta1/application/controllers/Feeds.php on line 24
+[08-Dec-2016 08:57:13 UTC] PHP Fatal error:  Call to a member function getCountryByName() on a non-object in /home/bitesup/public_html/beta1/application/controllers/Feeds.php on line 26
+[08-Dec-2016 11:00:54 UTC] PHP Fatal error:  Call to undefined method Feeds::get_country_by_ip() in /home/bitesup/public_html/beta1/application/controllers/Feeds.php on line 30
+[08-Dec-2016 11:02:05 UTC] PHP Fatal error:  Call to a member function getCountryByName() on a non-object in /home/bitesup/public_html/beta1/application/controllers/Feeds.php on line 31
+[22-Dec-2016 13:12:53 UTC] PHP Fatal error:  Call to undefined method Restaurant_model::username_exist() in /home/bitesup/public_html/beta1/application/controllers/Main.php on line 865
+[22-Dec-2016 13:37:29 UTC] PHP Parse error:  syntax error, unexpected 'users' (T_STRING) in /home/bitesup/public_html/beta1/application/models/Restaurant_model.php on line 540
+[22-Dec-2016 13:37:52 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/bitesup/public_html/beta1/application/models/Restaurant_model.php on line 539
+[29-Dec-2016 12:42:23 UTC] PHP Fatal error:  Call to a member function getserviebyname() on a non-object in /home/bitesup/public_html/beta1/application/controllers/Main.php on line 926
+[29-Dec-2016 12:43:22 UTC] PHP Fatal error:  Call to a member function getserviebyname() on a non-object in /home/bitesup/public_html/beta1/application/controllers/Main.php on line 926
+[29-Dec-2016 12:43:31 UTC] PHP Fatal error:  Call to a member function getserviebyname() on a non-object in /home/bitesup/public_html/beta1/application/controllers/Main.php on line 926
+[30-Dec-2016 11:47:15 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/bitesup/public_html/beta1/application/views/top-restaurant.php on line 5
+[30-Dec-2016 12:01:32 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/bitesup/public_html/beta1/application/views/top-restaurant.php on line 19
+[30-Dec-2016 12:04:35 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/bitesup/public_html/beta1/application/views/top-restaurant.php on line 19
